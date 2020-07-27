@@ -2,5 +2,10 @@ In questa cartella ci sono cani e gatti.
 Ed anche la loro età.
 Ed anche il pelo
 Anche il nome
+<<<<<<< HEAD
 modifica in test
+=======
+modifica in master
+
+>>>>>>> 89c0fbf6d97aa23217187c5c531de2d2fa286ada
 
